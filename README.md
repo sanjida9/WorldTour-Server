@@ -16,4 +16,4 @@
 
 ### . They can see their booking from here
 
-### . Also they can manage their booking from thish// website
+### . Also they can manage their booking from this website
